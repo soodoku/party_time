@@ -1,0 +1,31 @@
+File Manifest for ICPSR
+
+Almond, Gabriel, and Sidney Verba. Civic Culture Study, 1959-1960 [Computer
+file]. ICPSR07201-v2. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research  [distributor], 2009-02-12.
+doi:10.3886/ICPSR07201
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    07201-related_literature.txt        -       -         -       2011-01-14  -
+
+    07201-manifest.txt                  -       -         -       2011-01-15  -
+
+
+DS0001 Civic Culture Study, 1959-1960
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    07201-0001-Codebook.txt             -       -         -       2004-11-23  0c40ee1e0b91e464fa7a36cb5172463e
+
+    07201-0001-Data.txt                 278     4,891     211     1996-06-12  d238c42e595ddbcef46d7e5eb5aab297
+
+    07201-0001-Setup.sas                -       -         -       2004-11-23  314b53151d078f3fbd70b8f4ee09638c
+
+    07201-0001-Setup.sps                -       -         -       2004-11-23  c998ad3520018b030872deb5c5d45fad
+

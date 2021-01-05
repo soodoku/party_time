@@ -1,0 +1,18 @@
+var,rep,dem,rd.diff,con,lab,cl.diff,us.out,uk.out,us.uk.out
+Verba,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pleased,.02,.03,-.01,.01,.01,0,.03,.01,.02**
+Indifferent,.93,.93,0,.87,.96,-.1***,.93,.92,.01
+Displeased,.05,.04,.01,.12,.03,.1***,.04,.07,-.03*
+Rivers,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Not at all Upset,.6,.66,-.06,.83,.73,.11***,.63,.77,-.14***
+Not Sure,.12,.14,-.01,.07,.08,-.01,.13,.08,.05**
+Somewhat Upset,.22,.15,.06*,.08,.15,-.07**,.18,.12,.06**
+Very Upset,.06,.05,.01,.02,.04,-.03*,.05,.03,.02*
+Net Upset,.27,.2,.07*,.1,.19,-.1***,.24,.15,.09***
+10 Nat,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Very Happy,.02,.05,-.03,.24,.13,.11*,.04,.13,-.09**
+Somewhat happy,.01,.03,-.02,.05,.09,-.04,.02,.09,-.07**
+Neither happy nor unhappy,.48,.59,-.12+,.49,.54,-.06,.55,.54,0
+Somewhat Unhappy,.35,.2,.15**,.12,.09,.04,.26,.09,.18***
+Very unhappy,.14,.12,.02,.1,.15,-.05,.13,.15,-.02
+Net Proportion Unhappy,.49,.33,.17**,.22,.24,-.01,.39,.24,.16**
