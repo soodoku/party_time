@@ -25,6 +25,8 @@ We replicate the main descriptive findings of the [paper](http://gsood.com/resea
 10. [Table 1](scripts/09_tab1.R)
 11. [Table 2](scripts/10_tab2.R)
 
+Note: Some of the scripts rely on the [goji package](https://github.com/soodoku/goji).
+
 ## Quality-of-Life Scripts
 
 1. [Makefile](Makefile): Executes all scripts and compiles PDF.
