@@ -15,15 +15,11 @@ We replicate the main descriptive findings of the [paper](http://gsood.com/resea
 
 1. [ANES Time Series Trimming](scripts/01_anes_cdf_trim.R): Trims [raw ANES file](data/anes/raw/anes_timeseries_cdf_dta.zip) to a more manageable size&mdash;the file needs to be zipped, but takes too long to extract each time the code is changed.
 2. [ANES Time Series Recoding](scripts/02_wrangle_cdf.R): The bulk of the recoding work for the ANES data is done here. 1. [ANES Time Series Recoding](scripts/01_anes_ts_recode.R)
-3. [YG 2008 Recoding](scripts/02_rivers_recode.R)
-4. [YG 2010 10 Nation Recoding](scripts/03_10nation_recode.R)
-5. [Verba Recoding](scripts/04_verba_recode.R)
-6. [Figure 1](scripts/05_fig1.R)
-7. [Figure 2](scripts/06_fig2.R)
-8. [Figure 3](scripts/07_fig3.R)
-9. [Figure 3](scripts/08_fig4.R)
-10. [Table 1](scripts/09_tab1.R)
-11. [Table 2](scripts/10_tab2.R)
+3. [Figure 1](scripts/03_fig1.R)
+4. [Figure 2](scripts/04_fig2.R)
+5. [Figure 3](scripts/05_fig3.R)
+6. [Figure 3](scripts/06_fig4.R)
+7. [Table 1](scripts/07_tab1.R)
 
 Note: Some of the scripts rely on the [goji package](https://github.com/soodoku/goji).
 
