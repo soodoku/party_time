@@ -11,6 +11,12 @@ We replicate the main descriptive findings of the [paper](http://gsood.com/resea
 3. [ANES](data/anes/)
 4. [Verba](data/verba/)
 
+----
+Data for campaign effects (no corresponding scripts)
+
+5. [AP Yahoo!](data/ap_yahoo/)
+6. [Blair](data/blair/)
+
 ## Replication Scripts
 
 1. [ANES Time Series Trimming](scripts/01_anes_cdf_trim.R): Trims [raw ANES file](data/anes/raw/anes_timeseries_cdf_dta.zip) to a more manageable size&mdash;the file needs to be zipped, but takes too long to extract each time the code is changed.
