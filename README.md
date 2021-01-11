@@ -16,6 +16,7 @@ Data for campaign effects (no corresponding scripts)
 
 5. [AP Yahoo!](data/ap_yahoo/)
 6. [Blair](data/blair/)
+7. [Wisconsin Ads 2004](data/wiscads/)
 
 ## Replication Scripts
 
